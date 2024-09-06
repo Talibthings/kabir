@@ -1,7 +1,10 @@
 .index-body{
     padding-bottom: 50px;
 }
-
+.download-pdf-button:active{
+    background-color: white;
+    color: black;
+}
 
 h1{
     text-align: left;
